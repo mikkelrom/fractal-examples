@@ -11,3 +11,7 @@ https://components.designsystem.digital.gov/
 https://patterns.boston.gov/
 
 http://patterns.perchcms.com/
+
+https://styleguide.liip.ch/
+
+https://kanbasu.liip.ch/2/
